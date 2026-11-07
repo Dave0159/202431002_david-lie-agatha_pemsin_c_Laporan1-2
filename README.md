@@ -48,9 +48,7 @@ Laprak/
 ├── heart.csv
 ├── inflation.csv
 ├── loan_prediction.csv
-├── README.md
-├── Laporan1&2_202431002_David Lie Agatha_Pemsin_C.pdf
-└── Laporan1&2_202431002_David Lie Agatha_Pemsin_C.docx
+└── README.md
 ```
 
 ### Penjelasan file utama
